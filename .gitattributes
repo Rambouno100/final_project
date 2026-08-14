@@ -1,0 +1,3 @@
+# Render corre build.sh en Linux: si se sube con saltos de linea de Windows
+# falla con "bad interpreter". Esto obliga a que se guarde siempre con LF.
+*.sh text eol=lf
